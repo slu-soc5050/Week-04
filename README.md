@@ -2,8 +2,6 @@
 
 ### Repository Contents
 This repository contains files for:
-  - Commands
-    - week-04-stataQuickRef.pdf
   - LICENSE_CODE.md
   - LICENSE_TEXT.md
   - README.md
