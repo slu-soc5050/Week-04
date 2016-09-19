@@ -3,7 +3,7 @@
 ### Repository Contents
 This repository contains files for:
   - `/Slides`
-    - `week-05-slides.pdf`
+    - `week-04-slides.pdf`
   - `LICENSE_CODE.md`
   - `LICENSE_TEXT.md`
   - `README.md`
