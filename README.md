@@ -2,10 +2,11 @@
 
 ### Repository Contents
 This repository contains files for:
+  - `/Equations`
+    - `week-04-equations.pdf`
   - `/Slides`
     - `week-04-slides.pdf`
-  - `LICENSE_CODE.md`
-  - `LICENSE_TEXT.md`
+  - `LICENSE.md`
   - `README.md`
   - `.gitignore`
 
@@ -17,6 +18,3 @@ This course provides an introduction to applied statistical analysis for graduat
 
 ### About Saint Louis University
 [Saint Louis University](http://wwww.slu.edu) is a Catholic, Jesuit institution that values academic excellence, life-changing research, compassionate health care, and a strong commitment to faith and service. Founded in 1818, the University fosters the intellectual and character development of more than 13,000 students on two campuses in St. Louis and Madrid, Spain. Building on a legacy of nearly 200 years, Saint Louis University continues to move forward with an unwavering commitment to a higher purpose, a greater good.
-
-### Licenses
-All code is licensed under a [MIT License](https://opensource.org/licenses/mit-license.php) (see the file `LICENSE_CODE.md`). All text-based documentation and teaching materials are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (see the file `LICENSE_TEXT.md`).
