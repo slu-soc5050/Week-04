@@ -4,6 +4,7 @@
 This repository contains files for:
   - `/Equations`
     - `week-04-equations.pdf`
+    - `week-04-equationsByHand.jpg`
   - `/Slides`
     - `week-04-slides.pdf`
   - `LICENSE.md`
