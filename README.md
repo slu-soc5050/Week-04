@@ -5,6 +5,7 @@ Week-04 <img src="https://raw.githubusercontent.com/slu-soc5050/Core-Documents/s
 This repository contains files for:
   - `Equations/` - equation quick reference sheet
   - `Lab/` - lab instructions
+  - `PS-03/` - problem set 03
   - `Slides/` - slides for all lectures
   - `WeeklyPrep/` - weekly prep for week 04
   - `.gitignore`
